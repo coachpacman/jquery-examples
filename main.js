@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  $("#tabs").tabIt({position:'right'})
+  $("#tabs").tabIt({position:'center'})
 
   $.fn.hilite.defaults = {
     background:'pink',

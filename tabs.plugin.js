@@ -39,7 +39,7 @@
   }
 
   $.fn.tabIt.defaults = {
-    position: 'left'
+    position: 'right'
   }
 
 }())
